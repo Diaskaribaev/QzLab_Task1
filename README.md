@@ -1,5 +1,5 @@
 # QzLab_Task1
-## First task installing Odoo/PostgreSql/Python on our laptop 
+## ---First task installing Odoo/PostgreSql/Python on our laptop 
 
 ### odoo
 ![Снимок экрана (202)](https://user-images.githubusercontent.com/51242971/222124679-3f721037-4b9d-41f7-bc2b-a8c7fc3a2306.png)
