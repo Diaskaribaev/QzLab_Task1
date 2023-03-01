@@ -9,3 +9,5 @@
 
 ### Python
 ![Снимок экрана (205)](https://user-images.githubusercontent.com/51242971/222124808-a3c04d2c-fed3-47a6-979e-a2ec8cd49d0f.png)
+
+## --- Second task creating module for odoo 15.
