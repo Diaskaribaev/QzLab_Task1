@@ -1,11 +1,11 @@
 # QzLab_Task1
 ## First task installing Odoo/PostgreSql/Python on our laptop 
 
+### odoo
+![Снимок экрана (202)](https://user-images.githubusercontent.com/51242971/222124679-3f721037-4b9d-41f7-bc2b-a8c7fc3a2306.png)
 
-![Снимок экрана (203)](https://user-images.githubusercontent.com/51242971/222124534-2fc37088-61a2-437f-87af-5aaeb8c6c2e8.png)
+### sql
+![Снимок экрана (204)](https://user-images.githubusercontent.com/51242971/222124767-b2129cbd-e552-45e3-8f87-44e246f41294.png)
 
-
-![Снимок экрана (204)](https://user-images.githubusercontent.com/51242971/222124559-d9ef8010-9fe1-467c-8147-f77d10553338.png)
-
-
-![Снимок экрана (205)](https://user-images.githubusercontent.com/51242971/222124567-09c71de7-74c0-48aa-884f-e36d47cd554b.png)
+### Python
+![Снимок экрана (205)](https://user-images.githubusercontent.com/51242971/222124808-a3c04d2c-fed3-47a6-979e-a2ec8cd49d0f.png)
