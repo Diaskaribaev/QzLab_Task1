@@ -9,3 +9,7 @@
 #### starting odoo locally on my laptop
 
 ![Снимок экрана (207)](https://user-images.githubusercontent.com/51242971/222726560-9a1a0272-aa11-4efd-bcbd-47487add5745.png)
+
+
+
+## ---Second task creating module
