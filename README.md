@@ -8,8 +8,9 @@
 
 
 
-#### creating database in pgAdmin
-![Снимок экрана (209)](https://user-images.githubusercontent.com/51242971/223055505-d06d4d9d-3a0e-4ccd-96de-39c8efb28787.png)
+#### creating role in pgAdmin named odoo15
+
+![Снимок экрана (208)](https://user-images.githubusercontent.com/51242971/223055812-4a8d81af-8826-4238-a718-c8a158424205.png)
 
 #### starting odoo locally on my laptop
 
