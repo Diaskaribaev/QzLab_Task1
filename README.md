@@ -2,7 +2,7 @@
 ## ---First task installing Odoo/PostgreSql/Python on our laptop 
 
 ### Running odoo from source code with Pycharm
-#### also created virtual environment named(venv)
+#### also created virtual environment named(odoo final)
 
 ![Снимок экрана (209)](https://user-images.githubusercontent.com/51242971/223055631-db7b3707-c337-44c7-96df-c76b66f9610a.png)
 
