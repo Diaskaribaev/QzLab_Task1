@@ -22,3 +22,7 @@
 
 ## ---Second task creating module
 
+
+![Снимок экрана (214)](https://user-images.githubusercontent.com/51242971/224485241-3c5a7a51-f89f-4f86-be2e-94a759ab7b1a.png)
+
+![Снимок экрана (215)](https://user-images.githubusercontent.com/51242971/224485245-a46936b8-33fe-4ac1-9770-06173deb4628.png)
